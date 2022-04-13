@@ -197,7 +197,7 @@ slearner.plot_shap_dependence(treatment_group='treatment_A',
   <img width="629px" height="618px" src="https://raw.githubusercontent.com/uber/causalml/master/docs/_static/img/shap_vis.png">
 </div>
 
-See the [feature interpretations example notebook](https://github.com/uber/causalml/blob/master/examples/feature_interpretations_example.ipynb) for details.
+
 
 ### Uplift Tree Visualization
 
